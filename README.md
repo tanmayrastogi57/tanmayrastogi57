@@ -88,25 +88,3 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=tanmayrastogi57&show_icons=true&theme=tokyonight" 
-    alt="tanmayrastogi57-stats" 
-    height="165" 
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmayrastogi57&layout=compact&theme=tokyonight" 
-    alt="tanmayrastogi57-langs" 
-    height="165" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=tanmayrastogi57&theme=tokyonight&hide_border=false" 
-    alt="tanmayrastogi57-streak" 
-  />
-</p>
