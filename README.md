@@ -22,7 +22,6 @@
 ### 👨‍💻 About Me
 
 - 🔭 Currently working on **Django-based backend systems, REST APIs & PostgreSQL**
-- 🛡️ Built and deployed **Candidate Management System (CMS)** for the Indian Army (via Jaycee Tech)
 - 🐧 Comfortable with **Linux, CLI workflows, Docker, Nginx & production deployments**
 - 🌱 Exploring **distributed systems, optimization & scalable backend architecture**
 - 🧠 Interested in **Machine Learning, Deep Learning & AI-powered applications**
