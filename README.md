@@ -86,4 +86,9 @@
   </a>
 </p>
 
+### 📊 Language Activity (incl. contributions)
+<img src="assets/metrics-languages.svg" alt="Languages"/>
+
+### 🧰 Technologies / Topics
+<img src="assets/metrics-topics.svg" alt="Topics"/>
 ---
