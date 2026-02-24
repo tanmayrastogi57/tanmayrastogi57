@@ -25,8 +25,8 @@
 - 🐧 Comfortable with **Linux, CLI workflows, Docker, Nginx & production deployments**
 - 🌱 Exploring **distributed systems, optimization & scalable backend architecture**
 - 🧠 Interested in **Machine Learning, Deep Learning & AI-powered applications**
-- 📫 Reach me at: **`tanmayrastogi57@gmail.com`**
-- 🎸 Fun fact: I like **playing guitar** when I’m not debugging code
+- 📫 Reach me at: **tanmayrastogi57@gmail.com**
+- 🎸 Fun fact: I like **playing guitar** when I'm not debugging code
 
 ---
 
@@ -86,9 +86,49 @@
   </a>
 </p>
 
-### 📊 Language Activity (incl. contributions)
-<img src="assets/metrics-languages.svg" alt="Languages"/>
-
-### 🧰 Technologies / Topics
-<img src="assets/metrics-topics.svg" alt="Topics"/>
 ---
+
+### 📊 Languages Across Repos & Contributions
+
+> These cards pull from your **full contribution history** — repos you own *and* repos you've actively committed to (not just forks).
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanmayrastogi57&theme=tokyonight" alt="Languages by Repo" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tanmayrastogi57&theme=tokyonight" alt="Languages by Commit" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmayrastogi57&layout=donut&theme=tokyonight&hide_border=true&langs_count=8&count_private=true" alt="Top Languages Donut" />
+</p>
+
+---
+
+### ⏱️ Technologies & Coding Activity *(via WakaTime)*
+
+> **Setup required:** Install the [WakaTime plugin](https://wakatime.com/plugins) for your IDE (VS Code, PyCharm, etc.), then add your WakaTime username below. It automatically tracks languages, frameworks, and tools as you code.
+
+<!--
+  STEP 1: Sign up at https://wakatime.com and install the IDE plugin
+  STEP 2: Replace YOUR_WAKATIME_USERNAME below with your actual WakaTime username
+  STEP 3: (Optional) Add the WakaTime GitHub Action to auto-update stats daily:
+           https://github.com/marketplace/actions/waka-readme
+-->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true&layout=compact&langs_count=10" alt="WakaTime Stats" />
+</p>
+
+---
+
+### 📈 Overall GitHub Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanmayrastogi57&theme=tokyonight" alt="Profile Summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tanmayrastogi57&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanmayrastogi57&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
